@@ -50,12 +50,6 @@ $red: #e74c3c;
    @include box-sizing(border-box); 
 }
 
-h1 {
-   text-align: center;
-   color: #a8a8a8;
-   @include text-shadow(1px 1px 0 rgba(white, 1));
-}
-
 form {
    max-width: 600px;
    text-align: center;
